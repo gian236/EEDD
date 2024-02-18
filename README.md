@@ -1,0 +1,1 @@
+Este codigo simula una secuencia de menús que crean un recordatorio. Los menús son de Tipo, Materia, Dificultad y Longitud. Cada menú esta conformado por dos stacks. Segun se preciona la tecla "a" o "d", se hace un pop y push del valor en el stack respectivo.
